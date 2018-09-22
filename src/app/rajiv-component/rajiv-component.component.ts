@@ -15,7 +15,7 @@ export class RajivComponentComponent implements OnInit {
 
     setTimeout(  () => {
       this.allowNewServer = true;
-    } ,2000);
+    } , 2000);
 
   }
 
